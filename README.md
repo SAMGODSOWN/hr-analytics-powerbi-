@@ -1,4 +1,4 @@
-# 📊 Hr_Analyysis_Powerbi_For_ Palmoria_Group_HR_System. (Power BI Data Analysis)
+# 📊 Hr_Analysis_Powerbi_For_ Palmoria_Group_HR_System. (Power BI Data Analysis)
 
 **Tools**: Power BI, DAX, Power Query   
 [power bi project - Copy.zip](https://github.com/user-attachments/files/21093983/power.bi.project.-.Copy.zip)
