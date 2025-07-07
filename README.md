@@ -1,7 +1,7 @@
 # 📊 Hr_Analyysis_Powerbi_For_ Palmoria_Group_HR_System. (Power BI Data Analysis)
 
 **Tools**: Power BI, DAX, Power Query   
-
+[power bi project - Copy.zip](https://github.com/user-attachments/files/21093983/power.bi.project.-.Copy.zip)
 ![PALMORIA DSA PROJECT 7 PNG](https://github.com/user-attachments/assets/d0579659-b5c5-4958-b960-3e568fe8ab87)
 ![PALMORIA DSA PROJECT 6](https://github.com/user-attachments/assets/dd78b328-b90f-4d07-8cbf-e86865684e5c)
 [![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi)]()  
@@ -81,6 +81,7 @@ My analysis yielded several significant insights, offering valuable perspectives
 
 🛠️ Technologies Utilized
 This project was developed primarily using Microsoft Power BI, demonstrating proficiency in:
+[power bi project - Copy.zip](https://github.com/user-attachments/files/21093983/power.bi.project.-.Copy.zip)
  * Data Transformation & Preparation:
 * Power Query Editor (for data cleaning, type conversions, handling missing values, and unpivoting the bonus rules data).
    * Python scripting for advanced data preparation (if any complex transformations were needed before loading into Power BI).
