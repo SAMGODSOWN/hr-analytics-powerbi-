@@ -1,6 +1,9 @@
 # 📊 Hr_Analyysis_Powerbi_For_ Palmoria_Group_HR_System. (Power BI Data Analysis)
 
 **Tools**: Power BI, DAX, Power Query   
+
+![PALMORIA DSA PROJECT 7 PNG](https://github.com/user-attachments/assets/d0579659-b5c5-4958-b960-3e568fe8ab87)
+![PALMORIA DSA PROJECT 6](https://github.com/user-attachments/assets/dd78b328-b90f-4d07-8cbf-e86865684e5c)
 [![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi)]()  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 ![PALMORIA DSA PROJECT 2](https://github.com/user-attachments/assets/cba8a02e-8a7f-4bd1-a38b-15b83d0215c9)
