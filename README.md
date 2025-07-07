@@ -2,8 +2,6 @@
 
 **Tools**: Power BI, DAX, Power Query   
 [power bi project - Copy.zip](https://github.com/user-attachments/files/21093983/power.bi.project.-.Copy.zip)
-![PALMORIA DSA PROJECT 7 PNG](https://github.com/user-attachments/assets/d0579659-b5c5-4958-b960-3e568fe8ab87)
-![PALMORIA DSA PROJECT 6](https://github.com/user-attachments/assets/dd78b328-b90f-4d07-8cbf-e86865684e5c)
 [![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi)]()  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 ![PALMORIA DSA PROJECT 2](https://github.com/user-attachments/assets/cba8a02e-8a7f-4bd1-a38b-15b83d0215c9)
@@ -109,17 +107,21 @@ This GitHub repository is structured to provide a clear overview and access to a
 Below are snapshots from the interactive Power BI dashboard, providing a glimpse into the generated insights:
 
 ![PALMORIA DSA PROJECT 3](https://github.com/user-attachments/assets/31b6b051-a97a-4168-9777-9cbb18cbdf35)
-A comprehensive view of the interactive HR dashboard, showcasing key performance indicators for workforce demographics and compensation.
+This HR performance dashboard analyzes employee ratings by gender, across various locations and departments for Palomoria Group.
 
 ![PALMORIA DSA PROJECT 1](https://github.com/user-attachments/assets/f0e819d4-9760-4f9a-97c1-05cda76b0576)
-A visualization illustrating the gender pay gap across different departments, highlighting areas for intervention.
+This interactive HR dashboard for Palomoria Group provides a quick overview of employee count, average salary, and gender distribution across various locations.
+
 
 ![PALMORIA DSA PROJECT 5](https://github.com/user-attachments/assets/79afccde-330b-48ee-b2b5-c67770ca3782)
-A chart depicting salary distribution across bands and the number of employees falling below the new minimum wage threshold.
+This HR dashboard offers an interactive overview of employee bonuses and total pay, categorized by rating, department, and location.
+
 
 ![PALMORIA DSA PROJECT 2](https://github.com/user-attachments/assets/cba8a02e-8a7f-4bd1-a38b-15b83d0215c9)
+This dashboard visualizes Palomoria Group's gender distribution across different locations and departments, providing detailed employee counts.
 
 ![PALMORIA DSA PROJECT 4](https://github.com/user-attachments/assets/00f6536a-dcb2-451b-8c25-0c6625396f2d)
+This Palomoria Group dashboard analyzes HR salary and gender pay gap data, presenting salary compliance by location and average salaries across departments.
 
 ⭐ My Analytical Toolkit in Action: Foundations & Growth
 This project serves as a clear demonstration of my growing analytical capabilities and the foundational skills I'm actively building. It highlights my practical application of core data analysis principles to real-world challenges:
